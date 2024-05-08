@@ -1,1 +1,1 @@
-# OwnInterest
+# OwnInterest :- It is a social media app in which one can post images of his/her interest. And one can see all posts that are posted. it has authented routes where only after successfull creation of an account he/she can uplolad posts.
